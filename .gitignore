@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# EasyOCR models (避免上傳巨大的模型檔，讓使用者自己下載)
+models/
+_internal/
+
+# Excel Reports (避免上傳測試結果)
+Full_Report.xlsx
+AutoSave_Progress.xlsx
+Crash_Recovery_Report.xlsx
+DomainMapping.xlsx
+
+# Config
+taf_config.json

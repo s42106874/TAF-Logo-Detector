@@ -1,0 +1,11 @@
+pandas
+numpy
+opencv-python
+Pillow
+openpyxl
+PyMuPDF
+psutil
+easyocr
+torch
+torchvision
+torchaudio
